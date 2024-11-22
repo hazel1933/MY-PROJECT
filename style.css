@@ -1,0 +1,36 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.pet-section {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+}
+
+.pet-image {
+    float: left;
+    margin-right: 20px;
+    width: 150px;
+}
+
+.pet-info {
+    margin-left: 170px;
+}
+
+.pet-info h2 {
+    margin-top: 0;
+}
+
+.clear {
+    clear: both;
+}
